@@ -12,7 +12,7 @@
 #define IDM_EXIT				105
 #define IDI_WIN32PROJECT1			107
 #define IDI_SMALL				108
-#define IDC_WIN32PROJECT1			109
+#define IDC_LINE_DRAWER			109
 #define IDC_MYICON				2
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
